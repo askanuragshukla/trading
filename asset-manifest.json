@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/askanuragshukla/trading.git/static/css/main.816359ab.css",
+    "main.js": "/askanuragshukla/trading.git/static/js/main.9fa03f92.js",
+    "static/js/488.2fbb7ea1.chunk.js": "/askanuragshukla/trading.git/static/js/488.2fbb7ea1.chunk.js",
+    "static/media/sm1.png": "/askanuragshukla/trading.git/static/media/sm1.fa1b9d3d0744020ebbe9.png",
+    "static/media/sm2.avif": "/askanuragshukla/trading.git/static/media/sm2.e5cf49b984fe03fe440c.avif",
+    "static/media/slick.svg": "/askanuragshukla/trading.git/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/askanuragshukla/trading.git/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/askanuragshukla/trading.git/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/askanuragshukla/trading.git/static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "/askanuragshukla/trading.git/index.html",
+    "main.816359ab.css.map": "/askanuragshukla/trading.git/static/css/main.816359ab.css.map",
+    "main.9fa03f92.js.map": "/askanuragshukla/trading.git/static/js/main.9fa03f92.js.map",
+    "488.2fbb7ea1.chunk.js.map": "/askanuragshukla/trading.git/static/js/488.2fbb7ea1.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.816359ab.css",
+    "static/js/main.9fa03f92.js"
+  ]
+}
