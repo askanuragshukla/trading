@@ -1,0 +1,65 @@
+/* ThreeDCarousel.css */
+
+.carousel-container {
+    width: 80%;
+    margin: 0 auto;
+    perspective: 1000px;
+  }
+  
+  .slick-slide {
+    transition: transform 0.5s ease;
+  }
+  
+  .carousel-item {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: #fff;
+    border-radius: 8px;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+    padding: 20px;
+    height: 200px;
+    transform-style: preserve-3d;
+    position: relative;
+  }
+  
+  .carousel-image {
+    width: 100%;
+    height: auto;
+    border-radius: 8px;
+    object-fit: cover;
+  }
+  
+  .carousel-item .carousel-content {
+    position: absolute;
+    top: 20px;
+    left: 20px;
+    color: white;
+    font-weight: bold;
+    background-color: rgba(0, 0, 0, 0.6);
+    padding: 10px;
+    border-radius: 8px;
+  }
+  
+  .slick-center .carousel-item {
+    transform: scale(1.2) rotateY(0deg);
+    z-index: 1;
+  }
+  
+  .slick-prev,
+  .slick-next {
+    background-color: transparent;
+    border: none;
+    color: #333;
+    font-size: 24px;
+    z-index: 2;
+  }
+  
+  .slick-prev {
+    left: -40px;
+  }
+  
+  .slick-next {
+    right: -40px;
+  }
+  
